@@ -28,7 +28,7 @@
 <h2>🎥 Video Demo</h2>
 <p>
   A <strong>Video Demo</strong> of the project is available here:<br><br>
-  <img src="https://via.placeholder.com/1000x500.png" width="100%" alt="Demo Video">
+  <img src="https://github.com/Rohit-Pakhre09/Add-to-Cart/blob/9d29cd48ca2d1ad5b0a772956d8bdac8732b57a7/Add%20to%20Cart/Assets/AddtoCart.gif" width="100%" alt="Demo Video">
 </p>
 
 <h2>📂 Project Structure</h2>
