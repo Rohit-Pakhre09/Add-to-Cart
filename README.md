@@ -39,11 +39,6 @@
   <li><code>products.json</code> - JSON file containing the list of products</li>
 </ul>
 
-<h2>📂 API (Optional)</h2>
-<p>
-  The project can be extended by integrating a public API like <strong>Stripe</strong> for payments or a Backend API for storing user data.
-</p>
-
 <h2>🙌 Contributions</h2>
 <p>
   Contributions, issues, and feature requests are welcome! Feel free to fork the project, submit an issue, or open a pull request.
